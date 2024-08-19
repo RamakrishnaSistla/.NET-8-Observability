@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "dgSpecHash": "ce9a68PoVdb3pkXAE+bnlaMYskKy0/fSjKHOlbpCJ8zrztgVPicijPcaj9OXpYL++dffEtX0lxfdZGipTXDduA==",
+  "success": true,
+  "projectFilePath": "D:\\Samples\\.NET 8 Observability\\.NET 8 Observability.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\grpc.core.api\\2.43.0\\grpc.core.api.2.43.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\grpc.net.client\\2.43.0\\grpc.net.client.2.43.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\grpc.net.common\\2.43.0\\grpc.net.common.2.43.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.0\\microsoft.extensions.logging.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.0\\microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry\\1.5.0\\opentelemetry.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.api\\1.5.0\\opentelemetry.api.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.5.0\\opentelemetry.api.providerbuilderextensions.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.exporter.console\\1.5.0\\opentelemetry.exporter.console.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.5.0\\opentelemetry.exporter.opentelemetryprotocol.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.exporter.prometheus.aspnetcore\\1.5.0-rc.1\\opentelemetry.exporter.prometheus.aspnetcore.1.5.0-rc.1.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.5.0\\opentelemetry.extensions.hosting.1.5.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.5.0-beta.1\\opentelemetry.instrumentation.aspnetcore.1.5.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.5.0-beta.1\\opentelemetry.instrumentation.http.1.5.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0\\system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\ramakrishna.sistla\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTelemetry.Instrumentation.AspNetCore' 1.5.0-beta.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh2m-22xx-q94f",
+      "libraryId": "OpenTelemetry.Instrumentation.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTelemetry.Instrumentation.Http' 1.5.0-beta.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh2m-22xx-q94f",
+      "libraryId": "OpenTelemetry.Instrumentation.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

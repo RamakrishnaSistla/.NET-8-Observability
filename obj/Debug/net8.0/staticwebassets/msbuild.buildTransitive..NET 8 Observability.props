@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\.NET 8 Observability.props" />
+</Project>
